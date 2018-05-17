@@ -15,7 +15,7 @@
   - 建立定时播放规则
   - 根据已有规矩播放.mp3文件
 
-## dependence
+## Dependence
 
 - HAL lib (CubeMX)
 - Keil v5
